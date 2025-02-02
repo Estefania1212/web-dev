@@ -13,6 +13,9 @@ to see folders on bash we type ls -f
 in bash to clear stuff type clear 
 for windows we haveto type cls 
 
+git  --version
+
+
 in the case of being able to go back and forward we only press the key up to go back and down to go forward. 
 
 
