@@ -63,7 +63,8 @@ If we have One drive then we cd One Drive and then cd Desktop.
 7.if we have our status with untracked files thne we add the files int he folder with: git add myfile.txt,  the we press git status and it shows changes to be committed. 
 8. git commit -m  "this is my file comment" it has to say 1 file changed, 0 insertions , o deletions
 
-
+CREATE A NEW BRANCH ON VISUAL CODE 
+1. git checkout -b followed by the name of the branch like >> git checkout -b "new_branch " and you ge the message switched to a new branch "new_branch"
 
 
 
