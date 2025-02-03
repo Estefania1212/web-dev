@@ -16,6 +16,10 @@ for windows we haveto type cls
 git  --version
 
 
+
+
+
+
 in the case of being able to go back and forward we only press the key up to go back and down to go forward. 
 
 
@@ -44,3 +48,29 @@ To write inside the note we type on cmd notepad test.txt or echo test.txt
 
 
 we want to be able to movel file with cmd so we need to we have current location and what is going to be my target location?? 
+
+To go bacj we do cd .. and press enter 
+
+To create a new repository through GitHub 
+
+1 . cd my Desktop if not Desktop we chech dir to see if we have Desktop or OneDrive. 
+If we have One drive then we cd One Drive and then cd Desktop. 
+2. Create the dir. mkdir newrepo 
+3. cd new repo 
+4. git init 
+5. we can check our Git status typing git status  
+6. To create our myfile.txt we say : type nul >> myfile.txt
+7.if we have our status with untracked files thne we add the files int he folder with: git add myfile.txt,  the we press git status and it shows changes to be committed. 
+8. git commit -m  "this is my file comment" it has to say 1 file changed, 0 insertions , o deletions
+
+
+
+
+
+
+
+
+
+
+
+
