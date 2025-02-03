@@ -70,6 +70,12 @@ CREATE A NEW BRANCH ON VISUAL CODE
 4. the branch with the asterisk is always the active branch 
 
 
+Lonk with remote repository in GitHub 
+
+1. we need to go to Git Hub  we create a repository
+2. 2. git remore add origin and the link of the repository
+   3. git branch -M main
+   4. git push -u origin main 
 
 
 
