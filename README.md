@@ -67,6 +67,7 @@ CREATE A NEW BRANCH ON VISUAL CODE
 1. git checkout -b followed by the name of the branch like >> git checkout -b "new_branch " and you ge the message switched to a new branch "new_branch"
 2. git branch >> then we get the 2 available such as master and new_branch
 3. to go back to our master branch we type git checkout master and press enter or again we can say git checkout new_branch
+4. the branch with the asterisk is always the active branch 
 
 
 
