@@ -65,6 +65,8 @@ If we have One drive then we cd One Drive and then cd Desktop.
 
 CREATE A NEW BRANCH ON VISUAL CODE 
 1. git checkout -b followed by the name of the branch like >> git checkout -b "new_branch " and you ge the message switched to a new branch "new_branch"
+2. git branch >> then we get the 2 available such as master and new branch
+3. to go back to our master branch we type git checkout master and press enter 
 
 
 
