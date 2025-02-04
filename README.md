@@ -84,6 +84,9 @@ c:\users\brill\desktop\mynewrepo>git clone   https://github.com/Estefania1212/NE
 c:\users\brill\desktop\mynewrepo>git fetch https://github.com/Estefania1212/NEW_REPO.git   ( The link is the same as the one we have already cloned!! 
 
 
+In visual code, i need to have installed : LIVE SERVER, C++, isort, PYLANCE , PYTHON, GIT BASH 
+
+
 
 
 
