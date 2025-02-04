@@ -70,13 +70,17 @@ CREATE A NEW BRANCH ON VISUAL CODE
 4. the branch with the asterisk is always the active branch 
 
 
-Lonk with remote repository in GitHub 
+Link with remote repository in GitHub 
 
 1. we need to go to Git Hub  we create a repository
 2. 2. git remote add origin and the link of the repository like:  git remote add origin https://github.com/Estefania1212/NEW_REPO.git
    3. git push origin --all 
 
-
+CLONE THE REPOSITORy 
+we need to go back in the folder so we start again. we press cd .. 
+we get c:\users \brill\Desktop > mkdit my new repo
+c:\users\brilldesktop >cd mynewrepo
+c:\users\brill\desktop\mynewrepo>git clone 
 
 
 
