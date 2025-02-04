@@ -73,9 +73,8 @@ CREATE A NEW BRANCH ON VISUAL CODE
 Lonk with remote repository in GitHub 
 
 1. we need to go to Git Hub  we create a repository
-2. 2. git remore add origin and the link of the repository
-   3. git branch -M main
-   4. git push -u origin main 
+2. 2. git remote add origin and the link of the repository like:  git remote add origin https://github.com/Estefania1212/NEW_REPO.git
+   3. git push origin --all 
 
 
 
