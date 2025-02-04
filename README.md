@@ -15,7 +15,7 @@ for windows we haveto type cls
 
 git  --version
 
-
+LIVE SERVER install in visual studio 
 
 
 
