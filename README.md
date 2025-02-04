@@ -80,7 +80,8 @@ CLONE THE REPOSITORy
 we need to go back in the folder so we start again. we press cd .. 
 we get c:\users \brill\Desktop > mkdit my new repo
 c:\users\brilldesktop >cd mynewrepo
-c:\users\brill\desktop\mynewrepo>git clone 
+c:\users\brill\desktop\mynewrepo>git clone   https://github.com/Estefania1212/NEW_REPO.git
+c:\users\brill\desktop\mynewrepo>git fetch https://github.com/Estefania1212/NEW_REPO.git   ( The link is the same as the one we have already cloned!! 
 
 
 
